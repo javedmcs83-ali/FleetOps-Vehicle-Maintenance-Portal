@@ -4,7 +4,7 @@ A full-stack low-code solution on **Microsoft Power Platform** that digitizes an
 
 ![Power Apps](https://img.shields.io/badge/Power%20Apps-Canvas-742774) ![Power Automate](https://img.shields.io/badge/Power%20Automate-Cloud%20Flow-0B6A7E) ![SharePoint](https://img.shields.io/badge/SharePoint-Lists-038387) ![ALM](https://img.shields.io/badge/ALM-DEV%20to%20PROD-5B21B6)
 
-> 🔗 **Live project page:** https://javedmcs83-ali.github.io/REPO-NAME/ *(replace `REPO-NAME` after enabling GitHub Pages)*
+> 🔗 **Live project page:** https://javedmcs83-ali.github.io/FleetOps-Vehicle-Maintenance-Portal/
 
 > 🔒 Capstone project built with sample/test data. Technician names in screenshots are intentionally blurred.
 
